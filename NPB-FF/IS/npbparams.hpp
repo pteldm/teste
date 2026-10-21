@@ -4,10 +4,10 @@
 					  It sets the number of processors and the class of the NPB
 					  in this directory. Do not modify it by hand.   */
 					
-#define COMPILETIME "07 Oct 2026"
+#define COMPILETIME "19 Oct 2026"
 #define NPBVERSION "4.1"
 #define LIBVERSION "3.0.0"
-#define COMPILERVERSION "15.2.0"
+#define COMPILERVERSION "11.3.1"
 #define CS1 "g++ -std=c++14"
 #define CS2 "$(CC)"
 #define CS3 "-lm"

@@ -7,9 +7,9 @@
 #define	CLASS	 'S'
 #define	M	24
 #define	CONVERTDOUBLE	FALSE
-#define COMPILETIME "01 Sep 2026"
+#define COMPILETIME "19 Oct 2026"
 #define NPBVERSION "4.1"
-#define COMPILERVERSION "15.2.0"
+#define COMPILERVERSION "11.3.1"
 #define CS1 "g++ -std=c++20"
 #define CS2 "$(CC)"
 #define CS3 "-lm -L$(OTBB_ROOT)/lib/ -ltbb "

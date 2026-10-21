@@ -16,10 +16,10 @@
 #define NDIM3         5
 #define ONE           1
 #define	CONVERTDOUBLE	FALSE
-#define COMPILETIME "07 Oct 2026"
+#define COMPILETIME "19 Oct 2026"
 #define NPBVERSION "4.1"
 #define LIBVERSION "201511"
-#define COMPILERVERSION "11.5.0"
+#define COMPILERVERSION "11.3.1"
 #define CS1 "g++ -std=c++14"
 #define CS2 "$(CC)"
 #define CS3 "-lm"
