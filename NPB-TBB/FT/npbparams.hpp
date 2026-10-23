@@ -15,13 +15,13 @@
 #define NTOTALP          266240
 #define DEFAULT_BEHAVIOR 1
 #define	CONVERTDOUBLE	FALSE
-#define COMPILETIME "19 Oct 2026"
+#define COMPILETIME "23 Oct 2026"
 #define NPBVERSION "4.1"
 #define LIBVERSION "11101"
-#define COMPILERVERSION "11.3.1"
+#define COMPILERVERSION "11.4.0"
 #define CS1 "g++ -std=c++14"
 #define CS2 "$(CC)"
-#define CS3 "-L/home/plima/teste-solucao-1/NPB-CPP/libs/..."
+#define CS3 "-L/home/pedrolima/teste/libs/tbb-2020.1/bui..."
 #define CS4 "-I../common "
 #define CS5 "-O3 -mcmodel=medium -fpermissive"
 #define CS6 "-O3 -mcmodel=medium"

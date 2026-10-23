@@ -37,7 +37,7 @@ CLINK	= $(CC)
 #---------------------------------------------------------------------------
 # These macros are passed to the linker 
 #---------------------------------------------------------------------------
-C_LIB = -L/home/plima/teste-solucao-1/NPB-CPP/libs/tbb-2020.1/build/linux_intel64_gcc_cc15.2.0_libc2.43_kernel7.0.0_release -Wl,-rpath,/home/plima/teste-solucao-1/NPB-CPP/libs/tbb-2020.1/build/linux_intel64_gcc_cc15.2.0_libc2.43_kernel7.0.0_release -lm -ltbb -lpthread
+C_LIB = -L/home/pedrolima/teste/libs/tbb-2020.1/build/linux_intel64_gcc_cc11.4.0_libc2.35_kernel6.8.0_release -Wl,-rpath,/home/pedrolima/teste/libs/tbb-2020.1/build/linux_intel64_gcc_cc11.4.0_libc2.35_kernel6.8.0_release -lm -ltbb -lpthread
 
 
 #---------------------------------------------------------------------------
