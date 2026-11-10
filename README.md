@@ -137,4 +137,3 @@ Command example:
 `$ export OMP_NUM_THREADS=32`
 or
 `TBB_NUM_THREADS` and `FF_NUM_THREADS`
-# teste
