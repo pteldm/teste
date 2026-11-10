@@ -137,6 +137,7 @@ extern void c_print_results(std::string name,
 		std::string npbversion,
 		std::string compiletime,
 		std::string compilerversion,
+		int numthreads, // LINHA ADICIONADA
 		std::string cc,
 		std::string clink,
 		std::string c_lib,
